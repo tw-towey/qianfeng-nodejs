@@ -1,4 +1,4 @@
-#### 一、Node.js基础
+#### 一、Node.js基础 
 
 ##### 1.  认识Node.js
 
@@ -44,7 +44,6 @@ Node.js 可以解析JS代码（没有浏览器安全级别的限制）提供很�
   ```
 
   
-
 - 网络通信 (HTTP/HTTPS)
 
   ```js
@@ -116,7 +115,7 @@ m1.say()
 
 ###### 01 npm的使用
 
-```js
+```shell
 npm init
 npm install 包名 –g  （uninstall,update）
 npm install 包名 --save-dev (uninstall,update)
